@@ -4,7 +4,7 @@ import (
 	"github.com/AstromechZA/go-multi-project-demo/aaaa"
 	"github.com/AstromechZA/go-multi-project-demo/bbbb"
 
-	"github.com/AstromechZA/go-multi-project-demo/cccc/sub"
+	"github.com/AstromechZA/go-multi-project-demo/govendor/sub"
 )
 
 func main() {
