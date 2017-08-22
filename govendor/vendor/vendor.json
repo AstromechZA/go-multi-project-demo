@@ -1,0 +1,19 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "lSU/h8VhNEmvO4DQCgzvythVohU=",
+			"path": "github.com/AstromechZA/go-multi-project-demo/aaaa",
+			"revision": "bce87a4bab03c2946139299cd174f02b2c352906",
+			"revisionTime": "2017-08-22T20:48:48Z"
+		},
+		{
+			"checksumSHA1": "VXp1ARFPeN85noUxDdmtNXC0Vk4=",
+			"path": "github.com/AstromechZA/go-multi-project-demo/bbbb",
+			"revision": "bce87a4bab03c2946139299cd174f02b2c352906",
+			"revisionTime": "2017-08-22T20:48:48Z"
+		}
+	],
+	"rootPath": "github.com/AstromechZA/go-multi-project-demo/govendor"
+}
